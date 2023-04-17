@@ -1,0 +1,26 @@
+{ 
+  "Client": "ABCCompany",  
+  "Program":"Program1",  
+  "documentSource": "PAP",  
+  "caseOrigin": "Fax",  
+  "timeStamp": "2021-01-01 01:24:32",  
+  "caseType" : "Group A",
+  "licensedDocument" : "false",
+  "document": [  
+    {  
+      "documentType": "Enrollment", 
+       "documentUrl": "https://s3.amazonaws.com/cndt.pas.intellihealth.test/abccompany/program1/fax/20211220000001.pdf",  
+      "originalDateTimeUploaded": "2021-01-01 05:27:00"  
+    },  
+    {  
+      "documentType": "Other", 
+      "documentUrl": "https://s3.amazonaws.com/cndt.pas.intellihealth.test/abccompany/program1/fax/20211220000002.pdf",  
+      "originalDateTimeUploaded": "2021-01-01 05:25:00"  
+    },  
+    {  
+      "documentType": "Other",  
+      "documentUrl": "https://s3.amazonaws.com/cndt.pas.intellihealth.test/abccompany/program1/mail/20211220000003.pdf",  
+      "originalDateTimeUploaded": "2021-01-01 05:26:00"  
+    }  
+  ]  
+} 

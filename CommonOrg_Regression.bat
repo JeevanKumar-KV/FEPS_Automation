@@ -1,0 +1,1 @@
+gradle clean build  runTest  -PtestTag="@FEPS_regresssion_web" -Penv=QA  -Pplt=UI -Pbrowser=chrome -Pthreads=4  --info

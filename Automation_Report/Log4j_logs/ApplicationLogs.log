@@ -1,0 +1,16 @@
+2023-04-07 16:24:16 [INFO ] [InitializeDriver] - [before] =============================. Initialization of Webdriver method  called  ===========================================================
+2023-04-07 16:24:16 [INFO ] [InitializeDriver] - [standAloneStepUp] CHROME
+2023-04-07 16:24:21 [INFO ] [InitializeDriver] - [standAloneStepUp] Launching the Chrome Browser
+2023-04-07 16:24:21 [INFO ] [NavigationHelper] - [navigateTo] https://testfeps.services.conduent.com/Payroll/
+2023-04-07 16:24:26 [INFO ] [PageBase] - [Logger] Launching the URL 
+2023-04-07 16:24:26 [INFO ] [PageBase] - [Logger] Env : QA
+2023-04-07 16:24:26 [INFO ] [PageBase] - [Logger] Platform : UI
+2023-04-07 16:24:31 [INFO ] [PageBase] - [Logger] User successfully Logged in FEPS login page.
+2023-04-07 16:24:31 [INFO ] [PageBase] - [Logger] Logging into Common Org site with username : 30134914
+2023-04-07 16:24:47 [INFO ] [PageBase] - [Logger] Successfully Logged into Common Org Application
+2023-04-07 16:24:48 [INFO ] [PageBase] - [Logger] User navigates to Time menu page successfully
+2023-04-07 16:25:29 [INFO ] [PageBase] - [Logger] User navigates to Assume Hours WorkedToday page successfully
+2023-04-07 16:25:44 [INFO ] [InitializeDriver] - [after] TearDownWeb Driver method called ......................................
+2023-04-07 16:25:46 [INFO ] [InitializeDriver] - [tearDownWebDriver] 
+2023-04-07 16:25:46 [INFO ] [InitializeDriver] - [tearDownWebDriver] =============================. Shutting Down Webdriver ===========================================================
+2023-04-07 16:25:46 [INFO ] [InitializeDriver] - [after] 

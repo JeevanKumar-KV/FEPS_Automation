@@ -1,0 +1,538 @@
+	{
+	"processedDate": "2021-12-13T10:00:56.000Z",
+	"fileStatus": true,
+	"file": {
+	"name": "20211220000001.pdf",
+	"s3Path": "KPharma",
+	"source": "OCR",
+	"numberOfPages": 2,
+	"rejectedPages": [],
+	"numberOfTemplatePagesMatched": 2,
+	"templates": [
+	{
+	"templateId": "KPharma_enroll_smn_Product1",
+	"versionId": "KPharma_Enrollment_Form_M14_ESUS English copy.pdf",
+	"pageNumber": 1,
+	"fields": {
+	"hcp_first_name": [
+	"Alvin",
+	0.9579,
+	false,
+	null
+	],
+	"hcp_last_name": [
+	"Adler",
+	0.9579,
+	false,
+	null
+	],"hcp_designation": [
+	"MD",
+	0.9579,
+	false,
+	null
+	],
+	"hcp_address1": [
+	"290 Madison Avenue",
+	0.9579,
+	false,
+	null
+	],
+	"hcp_address2": [
+	"--blank--",
+	0.9579,
+	false,
+	null
+	],
+	"hcp_city": [
+	"Morristown",
+	0.9579,
+	false,
+	null
+	],
+	"hcp_state": [
+	"NJ",
+	0.9579,
+	false,
+	null
+	],
+	"hcp_zip": [
+	"07960",
+	0.9579,
+	false,
+	null
+	],
+	"hcp_npi_no": [
+	"1891722112",
+	0.9579,
+	false,
+	null
+	],
+	"hcp_contact": [
+	"Elizabeth",
+	0.9553,
+	false,
+	null
+	],
+	"hcp_contact_phone": [
+	"6465586696",
+	0.9553,
+	false,
+	null
+	],
+	"hcp_contact_email": [
+	"Elizabeth123@test.com",
+	0.9553,
+	false,
+	null
+	],
+	"hcp_contact_fax": [
+	"2121212121",
+	0.9553,
+	false,
+	null
+	],
+	"pat_dob": [
+	"10/2/1967",
+	0.9553,
+	false,
+	null
+	],
+	"pat_fname": [
+	"new data",
+	0.9579,
+	false,
+	null
+	],
+	"pat_lname": [
+	"Stud",
+	0.9579,
+	false,
+	null
+	],
+	"pat_address": [
+	"252A Doremus Drive",
+	0.9579,
+	false,
+	null
+	],
+	"pat_city": [
+	"Monroe Township",
+	0.9579,
+	false,
+	null
+	],
+	"pat_state": [
+	"NJ",
+	0.9579,
+	false,
+	null
+	],
+	"pat_zip": [
+	"08831",
+	0.9579,
+	false,
+	null
+	],
+	"pat_ship_address": [
+	"252A Doremus Drive",
+	0.9579,
+	false,
+	null
+	],
+	"pat_ship_city": [
+	"Monroe Township",
+	0.9579,
+	false,
+	null
+	],
+	"pat_ship_state": [
+	"NJ",
+	0.9579,
+	false,
+	null
+	],
+	"pat_ship_zip": [
+	"08831",
+	0.9579,
+	false,
+	null
+	],
+	"pat_email": [
+	"jonathan.s@gmail.com",
+	0.9579,
+	false,
+	null
+	],
+	"pat_phone": [
+	"8048688968",
+	0.9579,
+	false,
+	null
+	],
+	"pat_preferred_contact": [
+	"Home Phone",
+	0.9579,
+	false,
+	null
+	],
+	"pat_preferred_language": [
+	"English",
+	0.9579,
+	false,
+	null
+	],
+	"pat_gender":[
+	"Male",
+	0.9579,
+	false,
+	null
+	],
+	"pat_ssn":[
+	"--blank--",
+	0.9579,
+	false,
+	null
+	],
+	"pat_rep_first_name": [
+	"Judi",
+	0.9579,
+	false,
+	null
+	],
+	"pat_rep_last_name": [
+	"Muti",
+	0.9579,
+	false,
+	null
+	],
+	"pat_rep_relationship": [
+	"Wife",
+	0.9579,
+	false,
+	null
+	],
+	"product_1": [
+	"Product A",
+	0.9579,
+	false,
+	null
+	],
+	"form_1": [
+	"Tablet",
+	0.9579,
+	false,
+	null
+	],
+	"strength_1": [
+	"25 mg - 100 Pckg",
+	0.9579,
+	false,
+	null
+	],
+	"quantity_1": [
+	"6",
+	0.9579,
+	false,
+	null
+	],
+	"product_2": [
+	"Product B",
+	0.9579,
+	false,
+	null
+	],
+	"form_2": [
+	"Vial",
+	0.9579,
+	false,
+	null
+	],
+	"strength_2": [
+	"10000 Units/mL",
+	0.9579,
+	false,
+	null
+	],
+	"quantity_2": [
+	"7",
+	0.9579,
+	false,
+	null
+	],
+	"rx_signed": [
+	"--selected--",
+	0.9579,
+	false,
+	null
+	],
+	"rx_date": [
+	"12/13/2021",
+	0.9579,false,
+	null
+	],
+	"fullfilment_method": [
+	"MedVantx",
+	0.9579,
+	false,
+	null
+	],
+	"rx_p_authorization_no": [
+	"--blank--",
+	0.9579,
+	false,
+	null
+	],
+	"rx_p_authorization_eff_date": [
+	"--blank--",
+	0.9579,
+	false,
+	null
+	],
+	"rx_additional_considerations": [
+	"--blank--",
+	0.9579,
+	false,
+	null
+	],
+	"hcp_sign_substitution_permitted": [
+	"--signed--",
+	0.9579,
+	false,
+	null
+	],
+	"hcp_sign_substitution_permitted_date": [
+	"--blank--",
+	0.9579,
+	false,
+	null
+	],
+	"hcp_sign_disp_as_written": [
+	"--signed--",
+	0.9579,
+	false,
+	null
+	],
+	"hcp_sign_disp_as_written_date": [
+	"12/13/2021",
+	0.9579,
+	false,
+	null
+	],
+	"employer_furnished_drug_coverage": [
+	"Yes",
+	0.9579,
+	false,
+	null
+	],
+	"medicare_part_b": [
+	"true",
+	0.9579,
+	false,
+	null
+	],
+	"medicare_part_d": [
+	"true",
+	0.9579,
+	false,
+	null
+	],
+	"insurance_company_name": [
+	"United Healthcare",
+	0.9579,
+	false,
+	null
+	],
+	"insurance_company_phone": [
+	"9999999999",
+	0.9579,
+	false,
+	null
+	],
+	"ins_group": [
+	"PDPINO",
+	0.9579,
+	false,
+	null
+	],
+	"ins_bin": [
+	"610097",
+	0.9579,
+	false,
+	null
+	],
+	"pat_allergies": [
+	"No",
+	0.9579,
+	false,
+	null
+	],
+	"pat_currentMedication": [
+	"--blank--",
+	0.9579,
+	false,
+	null
+	],
+	"pat_icd10": [
+	"--blank--",
+	0.9579,
+	false,
+	null
+	],
+	"member_id": [
+	"102030405",
+	0.9579,
+	false,
+	null
+	]
+	}
+	},
+	{
+	"templateId": "KPharma_enroll_smn_Product1",
+	"versionId": "Current English Consent-page1.png",
+	"pageNumber": 2,
+	"fields": {
+	"hipaa_pat_name": [
+	"Art Muti",
+	0.9579,
+	false,
+	null
+	],
+	"hipaa_pat_dob": [
+	"9/14/1961",
+	0.9579,
+	false,
+	null
+	],
+	"application_source": [
+	"Fax",
+	0.9579,
+	false,
+	null
+	],
+	"us_resident": [
+	"Yes",
+	0.9579,
+	false,
+	null
+	],
+	"us_citizen": [
+	"Yes",
+	0.9579,
+	false,
+	null
+	],
+	"veteran": [
+	"No",
+	0.9579,
+	false,
+	null
+	],
+	"disabled": [
+	"No",
+	0.9579,
+	false,
+	null
+	],
+	"houshold_size": [
+	"2",
+	0.9579,
+	false,
+	null
+	],
+	"dependencies_under_18": [
+	"--blank--",
+	0.9579,
+	false,
+	null
+	],
+	"income_document_type": [
+	"--blank--",
+	0.9579,
+	false,
+	null
+	],
+	"annual_household_income": [
+	"6500",
+	0.9579,
+	false,
+	null
+	],
+	"hipaa_pat_email": [
+	"--blank--",
+	0.9579,
+	false,
+	null
+	],
+	"hipaa_pat_phone": [
+	"--blank--",
+	0.9579,
+	false,
+	null
+	],
+	"hipaa_pat_rep_sign": [
+	"--signed--",
+	0.9579,
+	false,
+	null
+	],
+	"hipaa_pat_sign_date": [
+	"12/13/2021",
+	0.9579,
+	false,
+	null
+	],
+	"hipaa_pat_rep_printed_name": [
+	"Judt Muti",
+	0.9579,
+	false,
+	null
+	],
+	"hipaa_pat_relationship": [
+	"Wife",
+	0.9579,
+	false,
+	null
+	],
+	"hipaa_pat_addtional_opt_in": [
+	"No",
+	0.9579,
+	false,
+	null
+	],
+	"tcpa_consent_opt_in": [
+	"Yes",
+	0.9579,
+	false,
+	null
+	],
+	"hipaa_pat_consent_rep_sign": [
+	"--blank--",
+	0.9579,
+	false,
+	null
+	],
+	"hipaa_pat_consent_sign_date": [
+	"--blank--",
+	0.9579,
+	false,
+	null
+	],
+	"hipaa_pat_consent_rep_name": [
+	"--blank--",
+	0.9579,
+	false,
+	null
+	],
+	"hipaa_pat_relationship_type": [
+	"--blank--",
+	0.9579,
+	false,
+	null
+	]
+	}
+	}
+	],
+	"batchId": 7075632,
+	"reviewer": 37065
+	}
+	}

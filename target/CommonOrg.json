@@ -1,0 +1,100 @@
+[ {
+  "line" : 2,
+  "elements" : [ {
+    "start_timestamp" : "2022-12-28T10:30:11.027Z",
+    "before" : [ {
+      "result" : {
+        "duration" : 12522130500,
+        "status" : "passed"
+      },
+      "match" : {
+        "location" : "com.FEPS.InitDriver.InitializeDriver.before(io.cucumber.java.Scenario)"
+      }
+    } ],
+    "line" : 5,
+    "name" : "Test Case 729475: Verify that user is provided option to manually update RE against each document.",
+    "description" : "",
+    "id" : "us-705299-login-page;test-case-729475:-verify-that-user-is-provided-option-to-manually-update-re-against-each-document.",
+    "after" : [ {
+      "result" : {
+        "duration" : 1351801300,
+        "status" : "passed"
+      },
+      "match" : {
+        "location" : "com.FEPS.InitDriver.InitializeDriver.after(io.cucumber.java.Scenario)"
+      }
+    } ],
+    "type" : "scenario",
+    "keyword" : "Scenario",
+    "steps" : [ {
+      "result" : {
+        "duration" : 93338903700,
+        "status" : "passed"
+      },
+      "line" : 6,
+      "name" : "User launches the FEPS URL",
+      "match" : {
+        "location" : "com.FEPS.test.stepdefinition.ui.FEPS_Login_Page_Step_Test.user_launches_the_feps_url()"
+      },
+      "keyword" : "Given "
+    }, {
+      "result" : {
+        "duration" : 40051027000,
+        "status" : "passed"
+      },
+      "line" : 7,
+      "name" : "User logs in with valid username \"30134914\" and \"Test123\" credentials",
+      "match" : {
+        "arguments" : [ {
+          "val" : "\"30134914\"",
+          "offset" : 33
+        }, {
+          "val" : "\"Test123\"",
+          "offset" : 48
+        } ],
+        "location" : "com.FEPS.test.stepdefinition.ui.FEPS_Login_Page_Step_Test.user_logs_in_with_valid_username_and_credentials(java.lang.String,java.lang.String)"
+      },
+      "keyword" : "When "
+    } ],
+    "tags" : [ {
+      "name" : "@TestRun"
+    }, {
+      "name" : "@DocumentIntakeUIChanges"
+    }, {
+      "name" : "@1"
+    }, {
+      "name" : "@2"
+    }, {
+      "name" : "@PAS"
+    }, {
+      "name" : "@FEPS"
+    } ]
+  } ],
+  "name" : "US_705299 Login_Page",
+  "description" : "",
+  "id" : "us-705299-login-page",
+  "keyword" : "Feature",
+  "uri" : "file:src/test/resources/features/FEPS.Ui.features/FEPS_Login.feature",
+  "tags" : [ {
+    "name" : "@TestRun",
+    "type" : "Tag",
+    "location" : {
+      "line" : 1,
+      "column" : 2
+    }
+  }, {
+    "name" : "@DocumentIntakeUIChanges",
+    "type" : "Tag",
+    "location" : {
+      "line" : 1,
+      "column" : 11
+    }
+  }, {
+    "name" : "@1",
+    "type" : "Tag",
+    "location" : {
+      "line" : 1,
+      "column" : 36
+    }
+  } ]
+} ]
