@@ -32,6 +32,7 @@ Feature: US_705299 Document Intake UI Changes
   Then Enter Feedback for Assumed Hours Worked Today and click on rating
   Then Click on Submit button
   Then Click on Help and check for the title of help pop up and close the pop up
+  # Added new comments for Git
   
 #	Then chick on logout button
     
