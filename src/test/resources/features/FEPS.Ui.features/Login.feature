@@ -33,6 +33,7 @@ Feature: US_705299 Document Intake UI Changes
   Then Click on Submit button
   Then Click on Help and check for the title of help pop up and close the pop up
   # Added new comments for Git
+  #Added
   
 #	Then chick on logout button
     
